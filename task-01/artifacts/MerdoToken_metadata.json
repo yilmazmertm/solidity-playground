@@ -129,45 +129,6 @@
 			},
 			{
 				"inputs": [],
-				"name": "decimals",
-				"outputs": [
-					{
-						"internalType": "uint8",
-						"name": "",
-						"type": "uint8"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "name",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "symbol",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "totalSupply",
 				"outputs": [
 					{
@@ -260,20 +221,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"@openzeppelin/contracts/utils/math/SafeMath.sol": {
-			"keccak256": "0xa2f576be637946f767aa56601c26d717f48a0aff44f82e46f13807eea1009a21",
-			"license": "MIT",
-			"urls": [
-				"bzz-raw://973868f808e88e21a1a0a01d4839314515ee337ad096286c88e41b74dcc11fc2",
-				"dweb:/ipfs/QmfYuZxRfx2J2xdk4EXN7jKg4bUYEMTaYk9BAw9Bqn4o2Y"
-			]
-		},
 		"task-01/eip-20.sol": {
-			"keccak256": "0xcdbf0ee2bffebcd8745f784646a691583b71f91b64e663f37c47b1412dd2e674",
+			"keccak256": "0x3554b38ecd2f4ad1de40fc7b2a9fa1392b36e5cd31cdf2c0cd84b96a910bac88",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://227d8990fad7707d4c117c2bd97728b7e9f7ebb66dc9180fc56a6717ee2db82e",
-				"dweb:/ipfs/QmQgcthsf8n7gmWk5fYpKW3CGoYRWfA7UDWwxvfPUktJZa"
+				"bzz-raw://12386f971c00a35bc10a68aa33f0b517a8d4e712e5c29efe730b7a56baef179e",
+				"dweb:/ipfs/QmcqM2DmHHUsk7kEHfDokaLZtiS3oKp4eeG98ShMSoC5U8"
 			]
 		}
 	},
